@@ -1,0 +1,10 @@
+body
+{
+    background-color: #262626;
+    background-size: 1040PX;
+    letter-spacing: 0.2px;
+    word-spacing: 4px;
+}
+html{
+    z-index: 1;
+}
